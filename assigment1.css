@@ -1,0 +1,46 @@
+h1{
+    background-color: rgb(154, 253, 5);
+    width: 400px;
+    line-height: 50px;
+    border-radius: 10px;
+    box-shadow:0px 5px 15px black;
+}
+
+td { border-radius: 5px;
+width: 40px;
+height: 40px;
+text-align: center;
+box-shadow:0px 1px 3px black;
+font-weight: bold;
+}
+.number{
+line-height :0px;;
+font-size: 10px;
+font-weight: bold;
+    }
+    .name{
+        line-height :0px;;
+        font-weight:bold}
+        .Green { background-color:rgb(56, 150, 71) ;
+
+        }
+        .red{
+background-color:rgb(
+    232, 26, 36
+    )
+
+        }
+        .yello{
+            background-color: rgb(227, 145, 2);
+        }
+        
+        .lblue{background-color: rgb( 76, 186, 245);}
+
+
+        .purpule{background-color: rgb(165, 2, 173);}
+        .grey{
+background-color: rgb(153, 145, 124);  }
+.lyello{background-color: rgb(250, 192, 0);}
+.pink{background-color: rgb(247, 87, 196);}
+.dblue{background: rgb(7, 116, 219);}
+.dgreen{background-color: rgb(4, 181, 125);}
